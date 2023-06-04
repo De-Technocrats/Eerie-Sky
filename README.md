@@ -1,5 +1,5 @@
 # Eerie-Sky
-This tool tells 15+ climatological / Meteorological facts e.g. humidity, longitude, wind direction, sun-set time etc. about the inputted location.
+It is a GEONIT . This tool tells 15+ climatological / Meteorological facts e.g. humidity, longitude, wind direction, sun-set time etc. about the inputted location.
 ## Installation & Usage
 [+]Requirements
 1) Proper Internet connection
